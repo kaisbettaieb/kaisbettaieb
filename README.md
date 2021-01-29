@@ -7,7 +7,7 @@
 
 <img align="center" src="https://github-readme-stats-iota-taupe.vercel.app/api/top-langs/?username=kaisbettaieb&theme=tokyonight" />
 
-## 🔧 Technologies & Tools
+## 🔧 Outils et technologies
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat-square&logo=PyCharm&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white&color=blue)
@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Frameworks-Flask-informational?style=flat-square&logo=flask&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat-square&logo=fastapi&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-Symfony-informational?style=flat-square&logo=symfony&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Framework-ExpressJS-informational?style=flat-square&logo=Express&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Framework-ExpressJS-informational?style=flat-square&logo=expressjs&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat-square&logo=react&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat-square&logo=MySql&logoColor=white&color=blue)
