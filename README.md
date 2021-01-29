@@ -9,6 +9,8 @@
 
 ### Vous pouvez me trouver sur:
 [<img align="left" alt="kaisbettaieb.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 [<img align="left" alt="Kais Bettaieb- | LinkedIn” width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  
 [website]: https://kaisbettaieb.me
 [linkedin]: https://www.linkedin.com/in/kais-bettaieb/
