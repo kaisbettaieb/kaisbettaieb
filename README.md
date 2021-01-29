@@ -1,7 +1,9 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**kaisbettaieb/kaisbettaieb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+![Mes statistiques](https://github-readme-stats.vercel.app/api?username=kaisbettaieb&show_icons=true&theme=tokyonight)
+
 
 Here are some ideas to get you started:
 
