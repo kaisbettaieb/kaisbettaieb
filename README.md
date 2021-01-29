@@ -7,14 +7,8 @@
 
 
 
-
-Vous pouvez me trouver sur [![Mon site][1.2]][1]. [![LinkedIn][2.2]][2].
-
-
-[1.1]: https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg
-[2.2]: https://raw.githubusercontent.com/kaisbettaieb/kaisbettaieb/main/linkedin-3-16.png
-
-<!-- Links to your social media accounts -->
-
-[1]: https://kaisbettaieb.me
-[2]: https://www.linkedin.com/in/kais-bettaieb/
+### Vous pouvez me trouver sur:
+[<img align="left" alt="kaisbettaieb.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Kais Bettaieb- | LinkedIn” width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[website]: https://kaisbettaieb.me
+[linkedin]: https://www.linkedin.com/in/kais-bettaieb/
