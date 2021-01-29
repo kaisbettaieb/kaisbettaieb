@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Frameworks-Flask-informational?style=flat-square&logo=flask&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat-square&logo=fastapi&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-Symfony-informational?style=flat-square&logo=symfony&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Framework-ExpressJS-informational?style=flat-square&logo=expressjs&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Framework-ExpressJS-informational?style=flat-square&logo=Express&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat-square&logo=react&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat-square&logo=MySql&logoColor=white&color=blue)
