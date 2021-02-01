@@ -8,7 +8,6 @@
 
 ![Mes statistiques](https://github-readme-stats-iota-taupe.vercel.app/api?username=kaisbettaieb&show_icons=true&theme=tokyonight)
 
-<img align="center" src="https://github-readme-stats-iota-taupe.vercel.app/api/top-langs/?username=kaisbettaieb&theme=tokyonight" />
 
 ## 🔧 Outils et technologies
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=blue)
