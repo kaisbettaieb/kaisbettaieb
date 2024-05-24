@@ -7,7 +7,7 @@
 
 
 ![Mes statistiques](https://github-readme-stats-iota-taupe.vercel.app/api?username=kaisbettaieb&show_icons=true&theme=tokyonight)
-
+![](https://komarev.com/ghpvc/?username=kaisbettaieb&abbreviated=true)
 
 ## 🔧 Outils et technologies
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=blue)
